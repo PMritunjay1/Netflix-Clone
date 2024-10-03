@@ -14,7 +14,7 @@ body {
 }
 
 .top {
-    background-image: url(assets/back.jpg);
+    background-image: url(back.jpg);
     background-size: max(1200px, 100vw);
     background-repeat: no-repeat;
     height: 644px;
