@@ -13,6 +13,7 @@ body {
     background-color: black;
 }
 
+
 .top {
     background-image: url(back.jpg);
     background-size: max(1200px, 100vw);
